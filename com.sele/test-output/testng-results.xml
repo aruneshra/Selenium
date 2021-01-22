@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-22T22:14:56 IST" name="Default suite" finished-at="2021-01-22T22:15:09 IST" duration-ms="13613">
+    <groups>
+    </groups>
+    <test started-at="2021-01-22T22:14:56 IST" name="Default test" finished-at="2021-01-22T22:15:09 IST" duration-ms="13613">
+      <class name="com.sele.Login.Loginage">
+        <test-method signature="log()[pri:0, instance:com.sele.Login.Loginage@7bab3f1a]" started-at="2021-01-22T22:14:56 IST" name="log" finished-at="2021-01-22T22:15:09 IST" duration-ms="13534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log -->
+      </class> <!-- com.sele.Login.Loginage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
